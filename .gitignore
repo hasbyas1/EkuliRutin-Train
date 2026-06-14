@@ -13,3 +13,8 @@ __pycache__/
 # Model & output files (opsional, kalau tidak mau di-push)
 *.pkl
 *.csv
+*.xlsx
+*.pdf
+
+fail/
+untracked/
